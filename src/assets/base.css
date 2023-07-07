@@ -58,4 +58,9 @@
   font-weight: normal;
 }
 
-
+.center{
+  text-align: center;
+}
+body{
+  background-color:grey;
+}
